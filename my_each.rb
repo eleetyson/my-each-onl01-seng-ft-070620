@@ -1,3 +1,4 @@
 def my_each(arr)
-  while 
+  i = 0
+  while i  
 end
